@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Plant-Based Flying Simulator
 
-Author: (TODO: your name)
+Author: Vishant Raajkumar
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Fun game where you can fly around and look at a cool plant. Basically the next evolution of Microsoft Flight Simulator.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use the mouse to rotate the camera and WASD to move.
 
 This game was built with [NEST](NEST.md).
